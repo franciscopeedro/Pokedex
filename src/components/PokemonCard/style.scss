@@ -1,0 +1,14 @@
+.PokemonCard {
+
+    $corRodapeCard: #cedbff;
+    $corFundoCard: #f5f7fc;
+
+    .MuiCardContent-root {
+        background-color: $corRodapeCard;
+    }
+    
+
+    .MuiPaper-root {
+        background-color: $corFundoCard;
+    }
+}

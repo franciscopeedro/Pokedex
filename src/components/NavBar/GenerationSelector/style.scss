@@ -1,0 +1,18 @@
+
+.GenerationSelector {
+    font-family: Roboto, Helvetica, Arial;
+
+    .title {
+        margin-right: 10px;
+    }
+    
+    button.MuiButtonBase-root {
+        background-color: #803a00;
+        color: #ccc;
+    }
+    button.MuiButtonBase-root.Mui-selected {
+        background-color: #4b2200;
+        color: #fff;
+    }
+}
+
